@@ -44,6 +44,7 @@ Once the program is installed and launched:
 7. Click __import__ a previously created profile.
 8. Navigate to wherever you saved the .zip file from this page to, probably your Downloads folder.
 9. Click on the .zip file and click open.
+ - The file may have downloaded as a .zip inside a .zip, in which case extract the first .zip but not the second
 10. Once the pack is ready, play it.
 
 If you're planning on playing on or running an SMP server then the URL/IP address should be providedd by your server admin or hosting service.
